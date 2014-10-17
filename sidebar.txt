@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tku:home|Door43 (tku)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tku|d43-tku repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tku/archive/master.zip|d43-tku.zip]]
+
+**Recent Changes**
+{{changes>ns = tku}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tku|Ethnologue data]]
+
